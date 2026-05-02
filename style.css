@@ -540,7 +540,7 @@ body {
     .portfolio-image{
         position: relative;
         width: 100%;
-        height: 500px;
+        height: 600px;
         border-radius: 30px;
     }
 
@@ -581,7 +581,7 @@ body {
     }
 
     .portfolio-image{
-        height: 350px;
+        height: 400px;
     }
 
     .portfolio-content{
