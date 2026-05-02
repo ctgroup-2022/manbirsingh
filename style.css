@@ -319,7 +319,7 @@ body {
     position: relative;
     width: 100%;
     background: #05070d;
-    padding: 50px 7%;
+    padding: 80px 7%;
     overflow: hidden;
 }
 
@@ -573,7 +573,7 @@ body {
 @media(max-width:768px){
 
     .creative-words-section{
-        padding: 90px 20px;
+        padding: 20px 20px;
     }
 
     .about-title{
@@ -691,7 +691,7 @@ body {
 .about-single-card{
     position: relative;
     background: #05070d;
-    padding:20px 8%;
+    padding:80px 8%;
     overflow: hidden;
 }
 
@@ -832,7 +832,7 @@ body {
 @media(max-width:768px){
 
     .about-single-card{
-        padding: 90px 20px;
+        padding: 20px 20px;
     }
 
     .about-title{
