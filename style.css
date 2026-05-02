@@ -30,7 +30,7 @@ body {
      display: flex;
    
 }
-
+/* Small Screens */@media (max-width: 768px) {    .logo {        justify-content: center;        align-items: center;        width: 100%;        text-align: center;    }}
 .nav-links {
     display: flex;
     gap: 15px;
