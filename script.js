@@ -325,7 +325,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             nextSlide();
 
-        }, 10000);
+        }, 6000);
 
     }
 
